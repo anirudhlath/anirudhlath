@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh Lath</h1>
 <h3 align="center">I love to learn about how everything works!</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudhlath" alt="anirudhlath" align="center"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudhlath&column=-1" alt="anirudhlath" align="center"/></a> </p>
 
 - 🔭 I’m currently working on [Clinical Trials Android App](https://github.com/anirudhlath/IIR-19-265_AndroidApp)
 
