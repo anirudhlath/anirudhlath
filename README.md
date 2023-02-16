@@ -3,6 +3,8 @@
 
 <p align="center">&nbsp;
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudhlath&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="anirudhlath" align="center" height=100px/></a>
+  
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhlath&" alt="anirudhlath" height=100px/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anirudhlath&show_icons=true&locale=en" alt="anirudhlath" height=100px/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudhlath&show_icons=true&locale=en&layout=compact" alt="anirudhlath" height=100px/></p>
 
