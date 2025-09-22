@@ -7,13 +7,13 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudhlath&show_icons=true&locale=en&layout=compact" alt="anirudhlath" height=100px/></p>
 
 
-- 🔭 I’m currently working on [Clinical Trials Android App](https://github.com/anirudhlath/IIR-19-265_AndroidApp)
+- 🔭 I’m currently working on MCP servers.
 
-- 🌱 I’m currently learning **iOS Development and Machine Learning**
+- 🌱 I’m currently learning **AI Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anirudhlath?tab=repositories](https://github.com/anirudhlath?tab=repositories)
 
-- 💬 Ask me about **ChatGPT**
+- 💬 Ask me about **AI, UX & UI**
 
 - 📫 How to reach me **anirudhlath@gmail.com**
 
