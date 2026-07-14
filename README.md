@@ -15,12 +15,11 @@ I build production LLM systems: autonomous tool-calling agents, Retrieval-Augmen
 
 ## Featured projects
 
+- **[alfred](https://github.com/anirudhlath/alfred)** — local-first multi-agent voice assistant: dual-process architecture (local Ollama SLM fast path + Claude agentic tool-use loop), LLM-generated automation triggers, three-layer memory with embedding search, DeepEval evaluation suite. Python, FastAPI, Redis, MQTT — with a companion [SwiftUI iOS client](https://github.com/anirudhlath/alfred-ios) and [Home Assistant microservice](https://github.com/anirudhlath/alfred-home-service).
 - **[meta-mcp](https://github.com/anirudhlath/meta-mcp)** — Model Context Protocol (MCP) router that selects tools using embeddings, semantic search, and RAG over a Qdrant vector database. Python, FastAPI, Qdrant, Docker.
 - **[dj-ledfx](https://github.com/anirudhlath/dj-ledfx)** — beat-synced LED lighting engine driven by Pioneer Pro DJ Link: 60fps effect renderer with per-device latency compensation, Prometheus/Grafana observability. Python, FastAPI, React.
 - **[genai-image-studio](https://github.com/anirudhlath/genai-image-studio)** — DreamBooth fine-tuning and image-generation web service. PyTorch, FastAPI, Gradio, Docker.
 - **[AsyncCardStack](https://github.com/anirudhlath/AsyncCardStack)** — modern async/await SwiftUI card-stack library.
-
-🔜 **Open-sourcing soon:** a local-first multi-agent voice assistant — agentic tool-use loops, three-layer memory with embedding search, and a DeepEval evaluation suite (Ollama + Claude).
 
 ## Reach me
 
